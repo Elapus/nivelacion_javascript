@@ -1,0 +1,13 @@
+body{
+    background: purple;
+    text-align: center;
+
+}
+button,
+  input[type="submit"] {
+    border: none;
+    background-color: #28a8b1;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+  }
